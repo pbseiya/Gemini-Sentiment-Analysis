@@ -1,0 +1,4 @@
+รับชมวิธีสร้าง Gemini API Key สำหรับใช้งานในการทำ Chat Bot หรืองานด้านภาษาต่างๆได้ที่ https://youtu.be/mwFN2MT1mJU
+ฝากติดตามช่องด้วยนะแจ๊ะ
+สร้าง Project https://console.cloud.google.com/
+สร้าง API Key https://aistudio.google.com/app/apikey
